@@ -1,0 +1,10 @@
+*.ova
+*.vdi
+*.iso
+*.env
+*password*
+*.key
+*.pem
+wazuh-install-files.tar
+.DS_Store
+Thumbs.db
