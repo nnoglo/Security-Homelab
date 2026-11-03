@@ -18,5 +18,5 @@ blue-team and SOC analyst work.
 
 | Project | What it covers | Status |
 |---|---|---|
-| [Wazuh SIEM](wazuh/) | SIEM with Linux and Windows agents, attack simulation, detection | In progress |
+| [Wazuh SIEM](https://github.com/nnoglo/Security-Homelab/tree/main/Wazuh) | SIEM with Linux and Windows agents, attack simulation, detection | In progress |
 | Pi-hole, Tailscale, Docker | Network services and remote access | Planned |
